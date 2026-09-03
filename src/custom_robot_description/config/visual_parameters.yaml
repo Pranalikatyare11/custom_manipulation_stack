@@ -1,0 +1,75 @@
+mesh_files:
+  base:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/base.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/base.stl
+
+  shoulder:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/shoulder.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/shoulder.stl
+
+  upper_arm:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/upperarm.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/upperarm.stl
+      mesh_files:
+
+  forearm:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/forearm.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/forearm.stl
+
+  wrist_1:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/wrist1.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/wrist1.stl
+    visual_offset: -0.127
+
+  wrist_2:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/wrist2.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/wrist2.stl
+    visual_offset: -0.0997
+
+  wrist_3:
+    visual:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/visual/wrist3.dae
+    collision:
+      mesh:
+        package: custom_robot_description
+        path: meshes/custom5/collision/wrist3.stl
+    visual_offset: -0.0989
+    visual_offset_xyz: "0 -0.0005 -0.0989"
