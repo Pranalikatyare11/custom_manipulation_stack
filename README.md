@@ -2,10 +2,7 @@
 
 > **A ROS 2 Humble Manipulation Stack for UR5e + Robotiq 2F-85 in Gazebo Fortress & MoveIt 2**
 
-![Dynamic Pick and Place Demo]
-https://github.com/user-attachments/assets/manipulation_demo.mp4
-
-*(Video Demo: [docs/Images/manipulation_demo.mp4](docs/Images/manipulation_demo.mp4))*
+<video src="docs/Images/manipulation_demo.mp4" controls width="100%" autoplay loop muted></video>
 
 ---
 
