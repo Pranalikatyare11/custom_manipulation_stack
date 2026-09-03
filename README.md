@@ -4,7 +4,7 @@
 
 ## 🎥 Pick and Place Demo
 
-[![Dynamic Pick and Place Demo](docs/Images/image.png)](docs/Images/manipulation_demo.mp4)
+![Dynamic Pick and Place Demo](docs/Images/manipulation_demo.gif)
 
 
 ## 📋 Table of Contents
